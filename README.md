@@ -1,4 +1,4 @@
-# CryptoClustering
+# Crypto Clustering
  Module 19 Challenge
 
 ## Instructions
